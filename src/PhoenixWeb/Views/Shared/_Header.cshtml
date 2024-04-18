@@ -1,0 +1,9 @@
+@using System.Security.Claims
+<div class="header">
+    <h2>PHOENIX</h2>
+    <div>
+        <span>@User.FindFirstValue(ClaimTypes.Name) - @User.FindFirstValue(ClaimTypes.Role)</span>
+        <a asp-controller="Account" asp-action="Logout" class="a-button">Change password</a>
+        <a asp-controller="Account" asp-action="Logout" class="a-button">Logout</a>
+    </div>
+</div>

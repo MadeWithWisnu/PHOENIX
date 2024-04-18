@@ -1,0 +1,15 @@
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\bin\Debug\net6.0\PhoenixBussiness.deps.json
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\bin\Debug\net6.0\PhoenixBussiness.dll
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\bin\Debug\net6.0\PhoenixBussiness.pdb
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\bin\Debug\net6.0\PhoenixDataAccess.dll
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\bin\Debug\net6.0\PhoenixDataAccess.pdb
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\obj\Debug\net6.0\PhoenixBussiness.csproj.AssemblyReference.cache
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\obj\Debug\net6.0\PhoenixBussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\obj\Debug\net6.0\PhoenixBussiness.AssemblyInfoInputs.cache
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\obj\Debug\net6.0\PhoenixBussiness.AssemblyInfo.cs
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\obj\Debug\net6.0\PhoenixBussiness.csproj.CoreCompileInputs.cache
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\obj\Debug\net6.0\PhoenixBussiness.dll
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\obj\Debug\net6.0\refint\PhoenixBussiness.dll
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\obj\Debug\net6.0\PhoenixBussiness.pdb
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\obj\Debug\net6.0\ref\PhoenixBussiness.dll
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixBussiness\obj\Debug\net6.0\PhoenixB.12201264.Up2Date

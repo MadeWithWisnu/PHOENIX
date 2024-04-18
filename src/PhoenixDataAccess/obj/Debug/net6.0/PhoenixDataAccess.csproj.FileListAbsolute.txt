@@ -1,0 +1,14 @@
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\bin\Debug\net6.0\PhoenixDataAccess.deps.json
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\bin\Debug\net6.0\PhoenixDataAccess.runtimeconfig.json
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\bin\Debug\net6.0\PhoenixDataAccess.dll
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\bin\Debug\net6.0\PhoenixDataAccess.pdb
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\obj\Debug\net6.0\PhoenixDataAccess.csproj.AssemblyReference.cache
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\obj\Debug\net6.0\PhoenixDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\obj\Debug\net6.0\PhoenixDataAccess.AssemblyInfoInputs.cache
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\obj\Debug\net6.0\PhoenixDataAccess.AssemblyInfo.cs
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\obj\Debug\net6.0\PhoenixDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\obj\Debug\net6.0\PhoenixDataAccess.dll
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\obj\Debug\net6.0\refint\PhoenixDataAccess.dll
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\obj\Debug\net6.0\PhoenixDataAccess.pdb
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\obj\Debug\net6.0\PhoenixDataAccess.genruntimeconfig.cache
+C:\Users\1929\Documents\4. .NET LATIHAN\PHOENIX\src\PhoenixDataAccess\obj\Debug\net6.0\ref\PhoenixDataAccess.dll

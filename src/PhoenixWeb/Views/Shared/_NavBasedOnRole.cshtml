@@ -1,0 +1,42 @@
+@using System.Security.Claims
+@if(User.FindFirstValue(ClaimTypes.Role) == "Guest")
+{
+    <a asp-controller="Booking" asp-action="Index">
+        <div>
+            <span>Booking</span>
+        </div>
+    </a>
+    <a asp-controller="MyRoom" asp-action="Index">
+        <div>
+            <span>My Room</span>
+        </div>
+    </a>
+}
+else
+{
+    <a asp-contoller="Administrator" asp-action="Index">
+        <div>
+            <span>Admin</span>
+        </div>
+    </a>
+    <a asp-contoller="Room" asp-action="Index">
+        <div>
+            <span>Room</span>
+        </div>
+    </a>
+    <a asp-contoller="Inventory" asp-action="Index">
+        <div>
+            <span>Inventory</span>
+        </div>
+    </a>
+    <a asp-contoller="RoomCleaning" asp-action="Index">
+        <div>
+            <span>Room Service</span>
+        </div>
+    </a>
+    <a asp-contoller="ReservationLog" asp-action="Index">
+        <div>
+            <span>Reservation Log</span>
+        </div>
+    </a>
+}

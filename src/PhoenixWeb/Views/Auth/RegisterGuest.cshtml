@@ -1,0 +1,50 @@
+@model AuthRegisterVM
+
+@{
+    Layout = "_LayoutLogin";
+}
+
+<div class="main">
+    <p class="sign" align="center">Register</p>
+    <form method="post" asp-action="RegisterGuest">
+        <input type="text" class="un" asp-for="@Model.Username" placeholder="Username" required>
+        <span asp-validation-for="@Model.Username"></span>
+
+        <input type="password" class="un" asp-for="@Model.Password" placeholder="Password" required>
+        <span asp-validation-for="@Model.Password"></span>
+
+        <input type="password" class="un" asp-for="@Model.ConfirmPassword" placeholder="Confirm Password" required>
+        <span asp-validation-for="@Model.ConfirmPassword"></span>
+
+        <input type="text" class="un" asp-for="@Model.FirstName" placeholder="First Name" required>
+        <span asp-validation-for="@Model.FirstName"></span>
+
+        <input type="text" class="un" asp-for="@Model.MiddleName" placeholder="Middle Name">
+        
+        <input type="text" class="un" asp-for="@Model.LastName" placeholder="Last Name">
+
+        @* <label asp-for="@Model.BirthDate">BirthDate</label> *@
+        <input type="date" class="un" asp-for="@Model.BirthDate">
+        <div class="gen">
+            <input type="radio" name="male" id="male" value="Register" asp-for="Gender">
+            <label for="male">Male</label>
+
+            <input type="radio" name="female" id="female" value="Register" asp-for="Gender">
+            <label for="female">Female</label>
+        </div>
+        
+
+        <input type="text" class="un" asp-for="@Model.Citizenship" placeholder="Citizenship">
+        <span asp-validation-for="@Model.Citizenship"></span>
+
+        <input type="text" class="un" asp-for="@Model.IdNumber" placeholder="Id Number">
+        <span asp-validation-for="@Model.IdNumber"></span>
+
+        <div>
+            <input type="submit" class="submit" value="Register">
+        </div>
+        <div class="forgot">
+            <a asp-action="Login">Login page</a>
+        </div>
+    </form>
+</div>

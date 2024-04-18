@@ -1,0 +1,73 @@
+@model RegisterVM
+<div class="form-container-register">
+    <h1>Register Guest</h1>
+    <form method="post" asp-action="Register">
+        <table>
+            <tr>
+                <td>Username</td>
+                <td>
+                    <input type="text" asp-for="Username">
+                    <span asp-validation-for="@Model.Username" class="popup-validation-error"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td>
+                    <input type="password" asp-for="Password">
+                    <span asp-validation-for="@Model.Password" class="popup-validation-error"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>Confirm Password</td>
+                <td>
+                    <input type="password" asp-for="ConfirmPassword">
+                    <span asp-validation-for="@Model.ConfirmPassword" class="pupup-validation-error"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>First Name</td>
+                <span asp-validation-for="@Model.FirstName" class="popup-validation-error"></span>
+            </tr>
+            <tr>
+                <td>Middle Name</td>
+                <td>
+                    <input type="text" asp-for="MiddleName">
+                    <span></span>
+                </td>
+            </tr>
+            <tr>
+                <td>Last Name</td>
+                <td>
+                    <input type="text" asp-for="LastName">
+                </td>
+            </tr>
+            <tr>
+                <td>Gender</td>
+                <td>
+                    <input type="radio" asp-for="Gender" value="M" id="male">
+                    <label for="male">Male</label>
+                    <input type="radio" asp-for="Gender" value="F" id="female">
+                    <label for="female">Female</label>
+                </td>
+            </tr>
+            <tr>
+                <td>Citizenship</td>
+                <td>
+                    <input type="text" asp-for="Citizenship">
+                    <span asp-validation-for="@Model.Citizenship" class="popup-validation-error"></span>
+                </td>
+            </tr>
+            <tr>
+                <td>ID Number</td>
+                <td>
+                    <input type="number" asp-for="IdNumber">
+                    <span asp-validation-for="@Model.IdNumber" class="popup-validation-error"></span>
+                </td>
+            </tr>
+        </table>
+        <div class="button-flex">
+            <button type="submit" class=" button-25">Register</button>
+            <button class="buttom-25" disable="true"><a asp-action="Login" asp-controller="Auth">Back to login page</a></button>
+        </div>
+    </form>
+</div>
